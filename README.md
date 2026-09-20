@@ -1,4 +1,4 @@
-# Predicting-Ride-Completion-in-Bookings
+# Predicting Ride Completion in Bookings
 
 
 The primary goal of this project is to build a high-accuracy predictive model that estimates the probability that a ride request, once accepted, will be successfully Completed.
